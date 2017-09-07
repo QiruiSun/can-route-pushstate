@@ -34,7 +34,7 @@
   "dependencies": {
     "can-event": "^3.5.0",
     "can-route": "^3.1.0",
-    "can-util": "^3.9.0"
+    "can-util": "^3.10.6"
   },
   "devDependencies": {
     "bit-docs": "0.0.7",
